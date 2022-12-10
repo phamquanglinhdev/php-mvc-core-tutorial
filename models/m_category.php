@@ -1,22 +1,19 @@
 <?php
-
-include "database.php";
-
-class m_notification
+include "models/database/database.php";
+class  m_category
 {
-    public  static function getAll()
+    public static function index()
     {
         $data = [];
         $conn = database::connect();
-        $sql = "SELECT * FROM notifications limit 3";
+        $sql = "SELECT * FROM category ";
         $result = $conn->query($sql);
+
         if ($result->num_rows > 0) {
-            // output data of each row
             while ($row = $result->fetch_assoc()) {
                 $item = new stdClass();
-                $item->title = $row["title"];
-                $item->message = $row["message"];
-                $item->link = $row["link"];
+                $item->id = $row["id"];
+                $item->name = $row["name"];
                 $data[] = $item;
             }
             return $data;

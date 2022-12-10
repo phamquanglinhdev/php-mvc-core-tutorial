@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda6d44a-b185-4440-8657-d627cfb3f1a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/auth/check-login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/auth/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/auth/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/Auth/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/m_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/c_grade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/c_notification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-notifications.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/m_grade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/m_log.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/m_notification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v-grade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v-showNotification.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IjAo13Gr7TGZdqOYn4nJWicTTN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/laragon/www/php",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\php\admin\auth" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda6d44a-b185-4440-8657-d627cfb3f1a6" name="Changes" comment="" />
+      <created>1670684790063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670684790063</updated>
+      <workItem from="1670684791727" duration="3059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
